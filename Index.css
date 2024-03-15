@@ -1,0 +1,76 @@
+            Body{
+                background-color: white;
+                color: Deeppink;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            header{
+                width: 800px;
+                height: 110px;
+                background-color: deeppink;
+                color: white;
+            }
+            footer{
+                width: 800px;
+                height: 110px;
+                background-color: deeppink;
+                color: white;
+            }
+            table{
+                width: 800px;        
+            }
+            img{
+                width: 250px;
+            }
+            td{
+                width: 200px;
+            }
+            #babyfeet{
+                background-color: #ffccff;
+            }
+            #babyfeetfoto{
+                background-color: #ff99ff;
+            }
+            #dontkillmyvibe{
+                background-color: #ff66ff;
+            }
+            #dontkillmyvibefoto{
+                background-color: #ff33ff;
+            }
+            #enjoytoday{
+                background-color: #ffffcc;
+            }
+            #enjoytodayfoto{
+                background-color: #ffff99;
+            }
+            #happybirthday{
+                background-color: #ffff66;
+            }
+            #happybirthdayfoto{
+                background-color: #ffff33;
+            }
+            #homesweethome{
+                background-color: #ffff00;
+            }
+            #homesweethomefoto{
+                background-color: #ccffff;
+            }
+            #itsagift{
+                background-color: #99ffff;
+            }
+            #itsagiftfoto{
+                background-color: #66ffff;
+            }
+            #justbreathe{
+                background-color: #33ffff;
+            }
+            #justbreathefoto{
+                background-color: #00ffff;
+            }
+            #youarebeautiful{
+                background-color: #99ffcc;
+            }
+            #youarebeautifulfoto{
+                background-color: #99ff99;
+            }
+            
+                   
